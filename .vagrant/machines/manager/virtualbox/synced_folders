@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant/minio_join":{"guestpath":"/vagrant/minio_join","hostpath":"/Users/marivernikova/deusops_230103/minio_join","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/marivernikova/deusops_230103","disabled":false,"__vagrantfile":true}}}
